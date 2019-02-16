@@ -1,0 +1,6 @@
+#content{
+    background-image: url('../images/intro-bg.jpg');
+}
+.overlay{
+    background: rgba(0,0,0, 0.5);
+}
